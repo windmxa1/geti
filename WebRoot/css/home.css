@@ -1,0 +1,48 @@
+/*********左侧导航**********/
+#lList {
+	/*position: fixed;*/
+	/*border: 1px solid;*/
+	/*border-right: 1px solid;*/
+	/*border-right-color: #68524d;*/
+	padding: 10px;
+	/*margin-left: 40px;*/
+	margin-top: 80px;
+}
+
+/*********左侧导航列表**********/
+.liHead {
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 8px;
+	cursor: pointer;
+	padding: 15px;
+	color: aliceblue;
+	background: #03041f;
+}
+
+/*********右侧内容**********/
+#ctn {
+	padding: 20px;
+	margin-top: 60px;
+	/*margin-left: 300px;*/
+	/*width: 700px;*/
+	/*height: 800px;*/
+	/*text-align: center;*/
+}
+
+/*********分割线**********/
+hr {
+	border: 0;
+	border-bottom: 1px dashed #ccc;
+	background: #999;
+}
+
+
+
+.pi li {
+	display: none;
+}
+/*
+.pi li:hover {
+	font-size: 16px;
+}*/
